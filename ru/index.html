@@ -225,35 +225,159 @@
       <h2 class="mt-2 font-head text-3xl font-bold sm:text-4xl">Все услуги подробно</h2>
       <p class="mt-3 text-zinc-400">Выберите конкретную услугу и посмотрите детали.</p>
     </div>
-    <div class="grid gap-6 md:grid-cols-3">
-      <div class="rounded-2xl bg-zinc-900 p-6 ring-1 ring-zinc-800">
-        <a href="/ru/services/evakuator/" class="font-head text-lg font-bold text-white hover:text-brand-400">Эвакуатор</a>
-        <ul class="mt-4 space-y-2 text-sm">
-          <li><a href="/ru/services/evakuator-pauk/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Эвакуатор-паук</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/prikurivanie-avto/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Прикуривание авто</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/zamena-kolesa-na-doroge/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Замена колеса на дороге</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/dostavka-topliva/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Доставка топлива</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/vskrytie-avtomobilya/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Вскрытие автомобиля</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/zamena-akkumulyatora/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Замена аккумулятора</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/avtotransportirovka/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Автотранспортировка</span><span class="text-brand-400">→</span></a></li>
-        </ul>
+    <div class="mb-12 last:mb-0">
+      <a href="/ru/services/evakuator/" class="mb-5 inline-flex items-center gap-2 font-head text-xl font-bold sm:text-2xl hover:text-brand-400">Эвакуатор <span class="text-brand-400">→</span></a>
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <a href="/ru/services/evakuator-pauk/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/towing.webp" type="image/webp" /><img src="/assets/towing.jpg" alt="Эвакуатор-паук" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Эвакуатор-паук</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Эвакуатор-паук заезжает в узкие дворы и парковки, куда обычный эвакуатор не проходит.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/prikurivanie-avto/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/towing.webp" type="image/webp" /><img src="/assets/towing.jpg" alt="Прикуривание авто" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Прикуривание авто</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Сел аккумулятор? Приедем и «прикурим» автомобиль на месте, в любой точке Тбилиси.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/zamena-kolesa-na-doroge/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/towing.webp" type="image/webp" /><img src="/assets/towing.jpg" alt="Замена колеса на дороге" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Замена колеса на дороге</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Пробили колесо в дороге? Приедем и поставим запаску или отвезём на шиномонтаж.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/dostavka-topliva/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/towing.webp" type="image/webp" /><img src="/assets/towing.jpg" alt="Доставка топлива" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Доставка топлива</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Закончилось топливо? Привезём бензин или дизель туда, где вы остановились.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/vskrytie-avtomobilya/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/towing.webp" type="image/webp" /><img src="/assets/towing.jpg" alt="Вскрытие автомобиля" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Вскрытие автомобиля</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Заперли ключи внутри? Безопасно вскроем закрытый автомобиль без повреждений.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/zamena-akkumulyatora/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/towing.webp" type="image/webp" /><img src="/assets/towing.jpg" alt="Замена аккумулятора" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Замена аккумулятора</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Подвёл аккумулятор? Привезём и заменим автомобильный аккумулятор на месте.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/avtotransportirovka/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/towing.webp" type="image/webp" /><img src="/assets/towing.jpg" alt="Автотранспортировка" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Автотранспортировка</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Безопасная перевозка авто по Тбилиси и всей Грузии, в том числе междугородняя.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
       </div>
-      <div class="rounded-2xl bg-zinc-900 p-6 ring-1 ring-zinc-800">
-        <a href="/ru/services/vulkanizaciya/" class="font-head text-lg font-bold text-white hover:text-brand-400">Выездная вулканизация</a>
-        <ul class="mt-4 space-y-2 text-sm">
-          <li><a href="/ru/services/svarka-diskov/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Сварка дисков</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/pravka-diskov/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Правка дисков</span><span class="text-brand-400">→</span></a></li>
-        </ul>
+    </div>
+    <div class="mb-12 last:mb-0">
+      <a href="/ru/services/vulkanizaciya/" class="mb-5 inline-flex items-center gap-2 font-head text-xl font-bold sm:text-2xl hover:text-brand-400">Выездная вулканизация <span class="text-brand-400">→</span></a>
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <a href="/ru/services/svarka-diskov/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/vulcanization.webp" type="image/webp" /><img src="/assets/vulcanization.jpg" alt="Сварка дисков" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Сварка дисков</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Диск треснул или травит воздух? Завариваем алюминиевые диски и восстанавливаем герметичность.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/pravka-diskov/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/vulcanization.webp" type="image/webp" /><img src="/assets/vulcanization.jpg" alt="Правка дисков" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Правка дисков</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Погнули диск в яме? Правим погнутые диски на специальном станке.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
       </div>
-      <div class="rounded-2xl bg-zinc-900 p-6 ring-1 ring-zinc-800">
-        <a href="/ru/services/mini-ekskavator/" class="font-head text-lg font-bold text-white hover:text-brand-400">Мини-экскаватор</a>
-        <ul class="mt-4 space-y-2 text-sm">
-          <li><a href="/ru/services/kopka-transhey/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Копка траншей</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/kopka-fundamenta/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Копка фундамента</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/vyravnivanie-territorii/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Выравнивание территории</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/demontazh/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Демонтаж</span><span class="text-brand-400">→</span></a></li>
-          <li><a href="/ru/services/landshaftnye-raboty/" class="flex items-center justify-between gap-2 text-zinc-400 hover:text-white"><span>Ландшафтные работы</span><span class="text-brand-400">→</span></a></li>
-        </ul>
+    </div>
+    <div class="mb-12 last:mb-0">
+      <a href="/ru/services/mini-ekskavator/" class="mb-5 inline-flex items-center gap-2 font-head text-xl font-bold sm:text-2xl hover:text-brand-400">Мини-экскаватор <span class="text-brand-400">→</span></a>
+      <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+        <a href="/ru/services/kopka-transhey/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/mini-excavator.webp" type="image/webp" /><img src="/assets/mini-excavator.jpg" alt="Копка траншей" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Копка траншей</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Копка траншей под воду, канализацию и кабель — быстро и точно.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/kopka-fundamenta/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/mini-excavator.webp" type="image/webp" /><img src="/assets/mini-excavator.jpg" alt="Копка фундамента" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Копка фундамента</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Копка фундамента и оснований под дом, забор и небольшие постройки.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/vyravnivanie-territorii/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/mini-excavator.webp" type="image/webp" /><img src="/assets/mini-excavator.jpg" alt="Выравнивание территории" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Выравнивание территории</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Выравнивание и планировка двора и участка, перераспределение грунта.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/demontazh/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/mini-excavator.webp" type="image/webp" /><img src="/assets/mini-excavator.jpg" alt="Демонтаж" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Демонтаж</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Демонтаж небольших построек, старого забора и бетона — даже в узком пространстве.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
+        <a href="/ru/services/landshaftnye-raboty/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+          <div class="relative h-40 overflow-hidden">
+            <picture><source srcset="/assets/mini-excavator.webp" type="image/webp" /><img src="/assets/mini-excavator.jpg" alt="Ландшафтные работы" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" /></picture>
+          </div>
+          <div class="flex flex-1 flex-col p-5">
+            <h4 class="font-head text-lg font-bold">Ландшафтные работы</h4>
+            <p class="mt-2 flex-1 text-sm text-zinc-400">Садовые и ландшафтные работы — выемка ям, подготовка грунта, формирование участка.</p>
+            <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">Подробнее →</span>
+          </div>
+        </a>
       </div>
     </div>
   </div>
@@ -262,8 +386,8 @@
 <section id="why" class="border-y border-zinc-800 bg-zinc-900/40">
   <div class="mx-auto max-w-6xl px-4 py-16 sm:py-20">
     <div class="mb-10 flex flex-wrap gap-3">
-      <a href="https://wa.me/995514908090" class="rounded-xl bg-[#25D366] px-5 py-2.5 text-sm font-semibold text-white">WhatsApp</a>
-      <a href="viber://chat?number=%2B995514908090" class="rounded-xl bg-[#7360f2] px-5 py-2.5 text-sm font-semibold text-white">Viber</a>
+      <a href="https://wa.me/995514908090" class="rounded-xl bg-[#25D366] px-5 py-2.5 text-sm font-semibold text-white inline-flex items-center justify-center gap-2"><svg class="h-[1.15em] w-[1.15em] shrink-0" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 0 0-8.5 15.2L2 22l4.9-1.3A10 10 0 1 0 12 2Zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .1-1.7-.1-.4-.1-.9-.3-1.6-.6-2.8-1.2-4.6-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 .9-2.2c.2-.2.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 1.9c.1.2.1.3 0 .5l-.4.6c-.2.2-.3.4-.1.7.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.4 2.4 1.5.2.1.4.1.6-.1l.7-.9c.2-.2.4-.2.6-.1l1.8.9c.3.1.4.2.5.3.1.2.1.6-.1 1.1Z"/></svg>WhatsApp</a>
+      <a href="viber://chat?number=%2B995514908090" class="rounded-xl bg-[#7360f2] px-5 py-2.5 text-sm font-semibold text-white inline-flex items-center justify-center gap-2"><svg class="h-[1.15em] w-[1.15em] shrink-0" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 3c-4.5 0-8 2.9-8 6.6 0 2 1 3.8 2.7 5v3l2.7-1.6c.8.2 1.7.3 2.6.3 4.5 0 8-2.9 8-6.6S16.5 3 12 3Z"/></svg>Viber</a>
       <a href="tel:+995514908090" class="rounded-xl bg-brand px-5 py-2.5 text-sm font-semibold text-zinc-950 hover:bg-brand-600"><svg class="mr-1.5 inline-block h-[1em] w-[1em] align-[-0.125em]" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3-8.6A2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.3 1.8.6 2.6a2 2 0 0 1-.5 2.1L8 9.6a16 16 0 0 0 6 6l1.2-1.2a2 2 0 0 1 2.1-.5c.8.3 1.7.5 2.6.6a2 2 0 0 1 1.7 2Z"/></svg>Позвонить</a>
     </div>
     <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
