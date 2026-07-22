@@ -551,4 +551,94 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/landshaftnye-raboty/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/landshaftis-samushaoebi/"/>
   </url>
+  <url>
+    <loc>https://bagratmotors.ge/services/saburavis-sheketeba/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavis-sheketeba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/tyre-puncture-repair/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/remont-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavis-sheketeba/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/tyre-puncture-repair/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavis-sheketeba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/tyre-puncture-repair/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/remont-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavis-sheketeba/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/remont-shin/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavis-sheketeba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/tyre-puncture-repair/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/remont-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavis-sheketeba/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/services/saburavis-montaji/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavis-montaji/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/tyre-fitting/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/montazh-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavis-montaji/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/tyre-fitting/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavis-montaji/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/tyre-fitting/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/montazh-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavis-montaji/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/montazh-shin/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavis-montaji/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/tyre-fitting/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/montazh-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavis-montaji/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/services/balansireba/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/balansireba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/wheel-balancing/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/balansirovka-koles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/balansireba/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/wheel-balancing/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/balansireba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/wheel-balancing/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/balansirovka-koles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/balansireba/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/balansirovka-koles/</loc>
+    <lastmod>2026-07-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/balansireba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/wheel-balancing/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/balansirovka-koles/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/balansireba/"/>
+  </url>
 </urlset>

@@ -39,6 +39,3 @@
 - [English](https://bagratmotors.ge/en/)
 - [Russian](https://bagratmotors.ge/ru/)
 
-## Related / sister sites
-- [towing.ge — dedicated towing site](https://towing.ge)
-- [vulkanizacia.ge — dedicated vulcanization site](https://vulkanizacia.ge)
