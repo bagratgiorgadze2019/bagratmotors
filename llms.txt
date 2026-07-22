@@ -1,0 +1,33 @@
+# Bagrat Motors
+
+> Bagrat Motors is an umbrella roadside- and site-services company in Tbilisi, Georgia, operating 24/7. It brings together three services: tow-truck / evacuator, mobile tyre vulcanization, and mini-excavator work. Founder/director: Bagrat Giorgadze.
+
+## Contact
+- Phone (main): +995 514 90 80 90 (tel:+995514908090) — WhatsApp: https://wa.me/995514908090
+- Phone (vulcanization): +995 591 90 90 13 (tel:+995591909013)
+- Email: info@bagratmotors.ge
+- Location: Tbilisi, Georgia
+- Hours: 24/7, every day
+
+## Services
+- Towing / evacuator — tow-truck call-out, spider (oboba) tow, accident & breakdown transport across Georgia, jump start, fuel delivery, lockout.
+  - ka: https://bagratmotors.ge/services/evakuatori/
+  - en: https://bagratmotors.ge/en/services/towing/
+  - ru: https://bagratmotors.ge/ru/services/evakuator/
+- Mobile vulcanization — on-site tyre repair, rim welding, rim straightening, battery replacement, jump start, lockout.
+  - ka: https://bagratmotors.ge/services/vulkanizacia/
+  - en: https://bagratmotors.ge/en/services/vulcanization/
+  - ru: https://bagratmotors.ge/ru/services/vulkanizaciya/
+- Mini-excavator — trench digging (water, sewer, cable), foundation excavation, site grading, soil loading, small demolition and landscaping in tight spaces.
+  - ka: https://bagratmotors.ge/services/mini-ekskavatori/
+  - en: https://bagratmotors.ge/en/services/mini-excavator/
+  - ru: https://bagratmotors.ge/ru/services/mini-ekskavator/
+
+## Languages
+- Georgian (default): https://bagratmotors.ge/
+- English: https://bagratmotors.ge/en/
+- Russian: https://bagratmotors.ge/ru/
+
+## Related / sister sites
+- Towing (dedicated): https://towing.ge
+- Mobile vulcanization (dedicated): https://vulkanizacia.ge

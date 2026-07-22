@@ -1,0 +1,14 @@
+{
+  "name": "bagratmotors",
+  "version": "1.0.0",
+  "description": "Bagrat Motors — evacuator, mobile vulcanization and mini-excavator services in Tbilisi",
+  "private": true,
+  "scripts": {
+    "build": "tailwindcss -i src/input.css -o assets/styles.css --minify",
+    "watch": "tailwindcss -i src/input.css -o assets/styles.css --watch"
+  },
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.1",
+    "tailwindcss": "^4.3.1"
+  }
+}

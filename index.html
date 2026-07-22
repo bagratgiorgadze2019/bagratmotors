@@ -1,126 +1,367 @@
 <!DOCTYPE html>
 <html lang="ka">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Bagrat Motors — ავტომობილები</title>
-  <meta name="description" content="Bagrat Motors — ავტომობილების გაყიდვა და მომსახურება. bagratmotors.ge" />
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <style>
-    :root {
-      --bg: #0d0f14;
-      --panel: #151922;
-      --text: #f2f4f8;
-      --muted: #9aa4b2;
-      --accent: #e63946;
-      --accent-2: #f1a208;
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Bagrat Motors — ევაკუატორი, ვულკანიზაცია და მინი ექსკავატორი თბილისში 24/7</title>
+<meta name="description" content="Bagrat Motors — ევაკუატორის გამოძახება, მოძრავი ვულკანიზაცია და მინი ექსკავატორის სერვისი თბილისში, 24/7. სწრაფი გამოძახება: 514 90 80 90." />
+<meta name="keywords" content="ევაკუატორი, ევაკუატორის გამოძახება, მოძრავი ვულკანიზაცია, მინი ექსკავატორი, სპეცტექნიკა, თბილისი, ბაგრატ მოტორსი" />
+<meta name="robots" content="index, follow" />
+<meta name="theme-color" content="#09090b" />
+<link rel="canonical" href="https://bagratmotors.ge/" />
+<link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/" />
+<link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/" />
+<link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/" />
+<link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Bagrat Motors" />
+<meta property="og:title" content="Bagrat Motors — ევაკუატორი, ვულკანიზაცია და მინი ექსკავატორი თბილისში" />
+<meta property="og:description" content="ევაკუატორის გამოძახება, მოძრავი ვულკანიზაცია და მინი ექსკავატორის სერვისი თბილისში, 24/7. ☎ 514 90 80 90." />
+<meta property="og:url" content="https://bagratmotors.ge/" />
+<meta property="og:image" content="https://bagratmotors.ge/assets/mini-excavator.jpg" />
+<meta property="og:locale" content="ka_GE" />
+<meta property="og:locale:alternate" content="en_US" />
+<meta property="og:locale:alternate" content="ru_RU" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Bagrat Motors — თბილისში 24/7" />
+<meta name="twitter:description" content="ევაკუატორი • მოძრავი ვულკანიზაცია • მინი ექსკავატორი. ☎ 514 90 80 90." />
+<meta name="twitter:image" content="https://bagratmotors.ge/assets/mini-excavator.jpg" />
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Georgian:wght@400;500;700;800&display=swap" rel="stylesheet" />
+<link href="/assets/styles.css" rel="stylesheet" />
+<!-- google -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://bagratmotors.ge/#org",
+      "name": "Bagrat Motors",
+      "url": "https://bagratmotors.ge/",
+      "email": "info@bagratmotors.ge",
+      "telephone": "+995514908090",
+      "logo": "https://bagratmotors.ge/assets/favicon.svg",
+      "founder": { "@type": "Person", "name": "ბაგრატ გიორგაძე", "jobTitle": "დირექტორი" },
+      "sameAs": ["https://towing.ge", "https://vulkanizacia.ge", "https://www.facebook.com/evakuatoris.gamodzaxeba"]
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://bagratmotors.ge/#website",
+      "url": "https://bagratmotors.ge/",
+      "name": "Bagrat Motors",
+      "inLanguage": "ka",
+      "publisher": { "@id": "https://bagratmotors.ge/#org" },
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://bagratmotors.ge/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "AutoRepair",
+      "@id": "https://bagratmotors.ge/#business",
+      "name": "Bagrat Motors",
+      "image": "https://bagratmotors.ge/assets/mini-excavator.jpg",
+      "url": "https://bagratmotors.ge/",
+      "telephone": "+995514908090",
+      "email": "info@bagratmotors.ge",
+      "priceRange": "$$",
+      "founder": { "@type": "Person", "name": "ბაგრატ გიორგაძე" },
+      "address": { "@type": "PostalAddress", "addressLocality": "თბილისი", "addressCountry": "GE" },
+      "geo": { "@type": "GeoCoordinates", "latitude": 41.7151, "longitude": 44.8271 },
+      "areaServed": { "@type": "City", "name": "თბილისი" },
+      "openingHoursSpecification": {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+        "opens": "00:00", "closes": "23:59"
+      },
+      "sameAs": ["https://towing.ge", "https://vulkanizacia.ge"]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://bagratmotors.ge/#faq",
+      "mainEntity": [
+        { "@type": "Question", "name": "რა სერვისებს სთავაზობთ?",
+          "acceptedAnswer": { "@type": "Answer", "text": "ევაკუატორის გამოძახება, მოძრავი ვულკანიზაცია და მინი ექსკავატორის სამუშაოები თბილისსა და მის შემოგარენში." } },
+        { "@type": "Question", "name": "მუშაობთ 24 საათი?",
+          "acceptedAnswer": { "@type": "Answer", "text": "დიახ, ვმუშაობთ 24/7, კვირის ყველა დღეს. დაგვირეკეთ ნებისმიერ დროს: 514 90 80 90." } },
+        { "@type": "Question", "name": "რამდენ ხანში ჩამოხვალთ?",
+          "acceptedAnswer": { "@type": "Answer", "text": "თბილისის ფარგლებში ჩვეულებრივ ვახდენთ რეაგირებას 20–30 წუთში." } }
+      ]
     }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body { height: 100%; }
-    body {
-      font-family: "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
-      background: radial-gradient(1200px 600px at 70% -10%, #1c2230 0%, var(--bg) 55%);
-      color: var(--text);
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-    }
-    header {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 22px 6vw;
-    }
-    .brand {
-      font-weight: 800;
-      font-size: 1.35rem;
-      letter-spacing: 0.5px;
-    }
-    .brand span { color: var(--accent); }
-    nav a {
-      color: var(--muted);
-      text-decoration: none;
-      margin-left: 26px;
-      font-size: 0.95rem;
-      transition: color 0.2s;
-    }
-    nav a:hover { color: var(--text); }
-    main {
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      padding: 40px 6vw 80px;
-      max-width: 900px;
-    }
-    .kicker {
-      color: var(--accent-2);
-      font-weight: 600;
-      letter-spacing: 2px;
-      text-transform: uppercase;
-      font-size: 0.8rem;
-      margin-bottom: 18px;
-    }
-    h1 {
-      font-size: clamp(2.4rem, 6vw, 4.2rem);
-      line-height: 1.05;
-      font-weight: 800;
-      margin-bottom: 22px;
-    }
-    p.lead {
-      color: var(--muted);
-      font-size: 1.15rem;
-      max-width: 620px;
-      margin-bottom: 36px;
-    }
-    .actions { display: flex; gap: 16px; flex-wrap: wrap; }
-    .btn {
-      display: inline-block;
-      padding: 14px 28px;
-      border-radius: 10px;
-      font-weight: 700;
-      text-decoration: none;
-      transition: transform 0.15s, opacity 0.2s;
-    }
-    .btn:hover { transform: translateY(-2px); }
-    .btn-primary { background: var(--accent); color: #fff; }
-    .btn-ghost { border: 1px solid #2b3240; color: var(--text); }
-    footer {
-      padding: 24px 6vw;
-      color: var(--muted);
-      font-size: 0.9rem;
-      border-top: 1px solid #1c2230;
-    }
-  </style>
+  ]
+}
+</script>
 </head>
-<body>
-  <header>
-    <div class="brand">Bagrat<span>Motors</span></div>
-    <nav>
-      <a href="#about">ჩვენ შესახებ</a>
-      <a href="#contact">კონტაქტი</a>
+<body class="bg-zinc-950 text-zinc-100 font-sans antialiased">
+
+<!-- Header -->
+<header class="sticky top-0 z-40 border-b border-zinc-800/80 bg-zinc-950/80 backdrop-blur">
+  <div class="mx-auto flex max-w-6xl items-center justify-between gap-4 px-4 py-3">
+    <a href="/" class="flex items-center gap-2">
+      <span class="grid h-9 w-9 place-items-center rounded-lg bg-brand font-head text-sm font-extrabold text-white">BM</span>
+      <span class="font-head text-lg font-extrabold tracking-tight">Bagrat Motors</span>
+    </a>
+    <nav class="hidden items-center gap-6 text-sm text-zinc-300 md:flex">
+      <a href="#services" class="hover:text-white">სერვისები</a>
+      <a href="#why" class="hover:text-white">უპირატესობა</a>
+      <a href="#faq" class="hover:text-white">FAQ</a>
+      <a href="#contact" class="hover:text-white">კონტაქტი</a>
     </nav>
-  </header>
-
-  <main>
-    <div class="kicker">bagratmotors.ge</div>
-    <h1>Bagrat Motors</h1>
-    <p class="lead" id="about">
-      ავტომობილების გაყიდვა და მომსახურება. საიტი მალე სრულად ამუშავდება —
-      დაგვიკავშირდით დამატებითი ინფორმაციისთვის.
-    </p>
-    <div class="actions" id="contact">
-      <a class="btn btn-primary" href="tel:+995">დარეკვა</a>
-      <a class="btn btn-ghost" href="mailto:bagratgiorgadze2019@gmail.com">ელ. ფოსტა</a>
+    <div class="flex items-center gap-3">
+      <div class="hidden items-center gap-1 rounded-lg bg-zinc-900 p-1 text-xs sm:flex">
+        <a href="/" class="rounded px-2 py-1 font-semibold text-brand-400">ქა</a>
+        <a href="/en/" class="rounded px-2 py-1 text-zinc-400 hover:bg-zinc-800">EN</a>
+        <a href="/ru/" class="rounded px-2 py-1 text-zinc-400 hover:bg-zinc-800">RU</a>
+      </div>
+      <a href="tel:+995514908090" class="hidden rounded-lg bg-brand px-4 py-2 text-sm font-semibold text-white hover:bg-brand-600 sm:inline-block">☎ 514 90 80 90</a>
+      <button id="navBtn" aria-label="მენიუ" class="grid h-9 w-9 place-items-center rounded-lg bg-zinc-900 md:hidden">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+      </button>
     </div>
-  </main>
+  </div>
+  <div id="navMenu" class="hidden border-t border-zinc-800 bg-zinc-950 px-4 py-3 md:hidden">
+    <div class="flex flex-col gap-3 text-sm text-zinc-300">
+      <a href="#services" class="hover:text-white">სერვისები</a>
+      <a href="#why" class="hover:text-white">უპირატესობა</a>
+      <a href="#faq" class="hover:text-white">FAQ</a>
+      <a href="#contact" class="hover:text-white">კონტაქტი</a>
+      <div class="flex items-center gap-1 pt-1 text-xs">
+        <a href="/" class="rounded bg-zinc-900 px-3 py-1.5 font-semibold text-brand-400">ქართული</a>
+        <a href="/en/" class="rounded px-3 py-1.5 text-zinc-400">EN</a>
+        <a href="/ru/" class="rounded px-3 py-1.5 text-zinc-400">RU</a>
+      </div>
+    </div>
+  </div>
+</header>
 
-  <footer>
-    &copy; <span id="year"></span> Bagrat Motors · bagratmotors.ge
-  </footer>
+<main>
+<!-- Hero -->
+<section class="relative overflow-hidden">
+  <picture>
+    <source srcset="/assets/mini-excavator.webp" type="image/webp" />
+    <img src="/assets/mini-excavator.jpg" alt="ბაგრატ მოტორსის მინი ექსკავატორი თბილისში" class="absolute inset-0 h-full w-full object-cover" />
+  </picture>
+  <div class="absolute inset-0 bg-gradient-to-b from-zinc-950/80 via-zinc-950/85 to-zinc-950"></div>
+  <div class="relative mx-auto max-w-6xl px-4 py-24 sm:py-32">
+    <div class="mb-5 flex flex-wrap gap-2 text-xs">
+      <span class="rounded-full bg-brand/15 px-3 py-1 font-medium text-brand-400 ring-1 ring-brand/30">24/7</span>
+      <span class="rounded-full bg-zinc-900/70 px-3 py-1 text-zinc-300 ring-1 ring-zinc-700">თბილისი</span>
+      <span class="rounded-full bg-zinc-900/70 px-3 py-1 text-zinc-300 ring-1 ring-zinc-700">სწრაფი გამოძახება</span>
+    </div>
+    <h1 class="font-head text-4xl font-extrabold leading-tight sm:text-6xl">Bagrat Motors</h1>
+    <p class="mt-4 max-w-2xl text-lg text-zinc-300">
+      ევაკუატორი • მოძრავი ვულკანიზაცია • მინი ექსკავატორი — ერთ სივრცეში, თბილისში, 24 საათი.
+    </p>
+    <div class="mt-8 flex flex-wrap gap-3">
+      <a href="tel:+995514908090" class="rounded-xl bg-brand px-6 py-3 font-semibold text-white hover:bg-brand-600">☎ დარეკვა 514 90 80 90</a>
+      <a href="#services" class="rounded-xl bg-zinc-900/80 px-6 py-3 font-semibold text-zinc-100 ring-1 ring-zinc-700 hover:bg-zinc-800">სერვისები</a>
+    </div>
+  </div>
+</section>
 
-  <script>
-    document.getElementById("year").textContent = new Date().getFullYear();
-  </script>
+<!-- Services -->
+<section id="services" class="mx-auto max-w-6xl px-4 py-16 sm:py-20">
+  <div class="mb-10 max-w-2xl">
+    <p class="text-sm font-semibold uppercase tracking-wider text-brand-400">ჩვენი სერვისები</p>
+    <h2 class="mt-2 font-head text-3xl font-bold sm:text-4xl">სამი მიმართულება, ერთი გუნდი</h2>
+    <p class="mt-3 text-zinc-400">აირჩიეთ სერვისი და გაიგეთ დეტალები, ან უბრალოდ დაგვირეკეთ.</p>
+  </div>
+  <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+    <!-- Towing -->
+    <a href="/services/evakuatori/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+      <div class="relative h-44 overflow-hidden">
+        <picture>
+          <source srcset="/assets/towing.webp" type="image/webp" />
+          <img src="/assets/towing.jpg" alt="ევაკუატორის სერვისი თბილისში" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" />
+        </picture>
+      </div>
+      <div class="flex flex-1 flex-col p-5">
+        <h3 class="font-head text-xl font-bold">ევაკუატორი</h3>
+        <p class="mt-2 flex-1 text-sm text-zinc-400">ევაკუატორის გამოძახება 24/7 — ავარია, ტექდაზიანება, „ობობა" და ავტოტრანსპორტირება მთელ საქართველოში.</p>
+        <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">ვრცლად →</span>
+      </div>
+    </a>
+    <!-- Vulcanization -->
+    <a href="/services/vulkanizacia/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+      <div class="relative h-44 overflow-hidden">
+        <picture>
+          <source srcset="/assets/vulcanization.webp" type="image/webp" />
+          <img src="/assets/vulcanization.jpg" alt="მოძრავი ვულკანიზაცია თბილისში" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" />
+        </picture>
+      </div>
+      <div class="flex flex-1 flex-col p-5">
+        <h3 class="font-head text-xl font-bold">მოძრავი ვულკანიზაცია</h3>
+        <p class="mt-2 flex-1 text-sm text-zinc-400">საბურავის შეკეთება ადგილზე მისვლით, დისკის დადუღება/გასწორება, აკუმულატორის შეცვლა და დაქოქვა.</p>
+        <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">ვრცლად →</span>
+      </div>
+    </a>
+    <!-- Mini excavator -->
+    <a href="/services/mini-ekskavatori/" class="group flex flex-col overflow-hidden rounded-2xl bg-zinc-900 ring-1 ring-zinc-800 transition hover:ring-brand/50">
+      <div class="relative h-44 overflow-hidden">
+        <picture>
+          <source srcset="/assets/mini-excavator.webp" type="image/webp" />
+          <img src="/assets/mini-excavator.jpg" alt="მინი ექსკავატორის სერვისი თბილისში" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-105" />
+        </picture>
+      </div>
+      <div class="flex flex-1 flex-col p-5">
+        <h3 class="font-head text-xl font-bold">მინი ექსკავატორი</h3>
+        <p class="mt-2 flex-1 text-sm text-zinc-400">თხრილების, საძირკვლის და კომუნიკაციების გათხრა, ტერიტორიის მოსწორება და დემონტაჟი ვიწრო სივრცეშიც.</p>
+        <span class="mt-4 inline-flex items-center gap-1 text-sm font-semibold text-brand-400">ვრცლად →</span>
+      </div>
+    </a>
+  </div>
+</section>
+
+<!-- Why us -->
+<section id="why" class="border-y border-zinc-800 bg-zinc-900/40">
+  <div class="mx-auto max-w-6xl px-4 py-16 sm:py-20">
+    <div class="mb-10 flex flex-wrap gap-3">
+      <a href="https://wa.me/995514908090" class="rounded-xl bg-[#25D366] px-5 py-2.5 text-sm font-semibold text-white">WhatsApp</a>
+      <a href="viber://chat?number=%2B995514908090" class="rounded-xl bg-[#7360f2] px-5 py-2.5 text-sm font-semibold text-white">Viber</a>
+      <a href="tel:+995514908090" class="rounded-xl bg-brand px-5 py-2.5 text-sm font-semibold text-white hover:bg-brand-600">☎ დარეკვა</a>
+    </div>
+    <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+      <div class="rounded-2xl bg-zinc-900 p-6 ring-1 ring-zinc-800">
+        <div class="text-2xl font-extrabold text-brand-400">24/7</div>
+        <h3 class="mt-2 font-semibold">მუშაობა შეუჩერებლად</h3>
+        <p class="mt-1 text-sm text-zinc-400">დღე იქნება თუ ღამე — ვპასუხობთ ნებისმიერ დროს.</p>
+      </div>
+      <div class="rounded-2xl bg-zinc-900 p-6 ring-1 ring-zinc-800">
+        <div class="text-2xl font-extrabold text-brand-400">თბილისი</div>
+        <h3 class="mt-2 font-semibold">მთელი ქალაქი</h3>
+        <p class="mt-1 text-sm text-zinc-400">ვმომსახურებთ თბილისის ყველა უბანსა და შემოგარენს.</p>
+      </div>
+      <div class="rounded-2xl bg-zinc-900 p-6 ring-1 ring-zinc-800">
+        <div class="text-2xl font-extrabold text-brand-400">20′</div>
+        <h3 class="mt-2 font-semibold">სწრაფი რეაგირება</h3>
+        <p class="mt-1 text-sm text-zinc-400">საშუალოდ 20–30 წუთში ვართ ადგილზე.</p>
+      </div>
+      <div class="rounded-2xl bg-zinc-900 p-6 ring-1 ring-zinc-800">
+        <div class="text-2xl font-extrabold text-brand-400">★</div>
+        <h3 class="mt-2 font-semibold">გამოცდილი გუნდი</h3>
+        <p class="mt-1 text-sm text-zinc-400">წლების გამოცდილება და საკუთარი ტექნიკა.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- About -->
+<section id="about" class="mx-auto max-w-3xl px-4 py-16 sm:py-20">
+  <h2 class="font-head text-3xl font-bold sm:text-4xl">ჩვენ შესახებ</h2>
+  <div class="mt-5 space-y-4 text-zinc-300">
+    <p>Bagrat Motors აერთიანებს საგზაო დახმარების სამ სერვისს ერთ სივრცეში — ევაკუატორი, მოძრავი ვულკანიზაცია და მინი ექსკავატორი. ჩვენი მიზანია, ერთი ზარით მიიღოთ ის დახმარება, რაც გჭირდებათ.</p>
+    <p>კომპანიას ხელმძღვანელობს <strong>ბაგრატ გიორგაძე</strong>. ვმუშაობთ 24/7, ვცდილობთ ადგილზე მივიდეთ 20–30 წუთში და შევასრულოთ სამუშაო სწრაფად და ხარისხიანად.</p>
+  </div>
+</section>
+
+<!-- Contact -->
+<section id="contact" class="border-t border-zinc-800">
+  <div class="mx-auto max-w-6xl px-4 py-16 sm:py-20">
+    <div class="rounded-3xl bg-gradient-to-br from-brand/15 to-zinc-900 p-8 ring-1 ring-brand/20 sm:p-12">
+      <h2 class="font-head text-3xl font-bold sm:text-4xl">დაგვიკავშირდით</h2>
+      <p class="mt-3 text-zinc-300">დაგვირეკეთ ან მოგვწერეთ — ვმუშაობთ ნებისმიერ დროს.</p>
+      <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+        <a href="tel:+995514908090" class="rounded-2xl bg-zinc-950/40 p-5 ring-1 ring-zinc-700 hover:ring-brand/50">
+          <div class="text-sm text-zinc-400">ტელეფონი</div>
+          <div class="mt-1 font-semibold">514 90 80 90</div>
+        </a>
+        <a href="mailto:info@bagratmotors.ge" class="rounded-2xl bg-zinc-950/40 p-5 ring-1 ring-zinc-700 hover:ring-brand/50">
+          <div class="text-sm text-zinc-400">ელ. ფოსტა</div>
+          <div class="mt-1 font-semibold">info@bagratmotors.ge</div>
+        </a>
+        <div class="rounded-2xl bg-zinc-950/40 p-5 ring-1 ring-zinc-700">
+          <div class="text-sm text-zinc-400">მდებარეობა</div>
+          <div class="mt-1 font-semibold">თბილისი, საქართველო</div>
+        </div>
+        <div class="rounded-2xl bg-zinc-950/40 p-5 ring-1 ring-zinc-700">
+          <div class="text-sm text-zinc-400">სამუშაო საათები</div>
+          <div class="mt-1 font-semibold">24/7</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- FAQ -->
+<section id="faq" class="mx-auto max-w-3xl px-4 pb-16 sm:pb-20">
+  <h2 class="font-head text-3xl font-bold sm:text-4xl">ხშირად დასმული კითხვები</h2>
+  <div class="mt-6 space-y-3">
+    <details class="group rounded-2xl bg-zinc-900 p-5 ring-1 ring-zinc-800">
+      <summary class="flex cursor-pointer items-center justify-between font-semibold">რა სერვისებს სთავაზობთ?<span class="text-brand-400 transition group-open:rotate-45">+</span></summary>
+      <p class="mt-3 text-zinc-400">ევაკუატორის გამოძახება, მოძრავი ვულკანიზაცია და მინი ექსკავატორის სამუშაოები თბილისსა და მის შემოგარენში.</p>
+    </details>
+    <details class="group rounded-2xl bg-zinc-900 p-5 ring-1 ring-zinc-800">
+      <summary class="flex cursor-pointer items-center justify-between font-semibold">მუშაობთ 24 საათი?<span class="text-brand-400 transition group-open:rotate-45">+</span></summary>
+      <p class="mt-3 text-zinc-400">დიახ, ვმუშაობთ 24/7, კვირის ყველა დღეს. დაგვირეკეთ ნებისმიერ დროს: 514 90 80 90.</p>
+    </details>
+    <details class="group rounded-2xl bg-zinc-900 p-5 ring-1 ring-zinc-800">
+      <summary class="flex cursor-pointer items-center justify-between font-semibold">რამდენ ხანში ჩამოხვალთ?<span class="text-brand-400 transition group-open:rotate-45">+</span></summary>
+      <p class="mt-3 text-zinc-400">თბილისის ფარგლებში ჩვეულებრივ ვახდენთ რეაგირებას 20–30 წუთში.</p>
+    </details>
+  </div>
+</section>
+</main>
+
+<!-- Footer -->
+<footer class="border-t border-zinc-800 bg-zinc-950">
+  <div class="mx-auto grid max-w-6xl gap-8 px-4 py-12 sm:grid-cols-2 lg:grid-cols-4">
+    <div>
+      <div class="flex items-center gap-2">
+        <span class="grid h-8 w-8 place-items-center rounded-lg bg-brand text-xs font-extrabold text-white">BM</span>
+        <span class="font-head font-extrabold">Bagrat Motors</span>
+      </div>
+      <p class="mt-3 text-sm text-zinc-400">ევაკუატორი, ვულკანიზაცია და მინი ექსკავატორი — თბილისში, 24/7.</p>
+    </div>
+    <div>
+      <div class="text-sm font-semibold text-zinc-200">სერვისები</div>
+      <ul class="mt-3 space-y-2 text-sm text-zinc-400">
+        <li><a href="/services/evakuatori/" class="hover:text-white">ევაკუატორი</a></li>
+        <li><a href="/services/vulkanizacia/" class="hover:text-white">მოძრავი ვულკანიზაცია</a></li>
+        <li><a href="/services/mini-ekskavatori/" class="hover:text-white">მინი ექსკავატორი</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="text-sm font-semibold text-zinc-200">კონტაქტი</div>
+      <ul class="mt-3 space-y-2 text-sm text-zinc-400">
+        <li><a href="tel:+995514908090" class="hover:text-white">☎ 514 90 80 90</a></li>
+        <li><a href="mailto:info@bagratmotors.ge" class="hover:text-white">info@bagratmotors.ge</a></li>
+        <li><a href="https://towing.ge" class="hover:text-white">towing.ge</a></li>
+        <li><a href="https://vulkanizacia.ge" class="hover:text-white">vulkanizacia.ge</a></li>
+      </ul>
+    </div>
+    <div>
+      <div class="text-sm font-semibold text-zinc-200">ენა</div>
+      <div class="mt-3 flex items-center gap-1 text-xs">
+        <a href="/" class="rounded bg-zinc-900 px-3 py-1.5 font-semibold text-brand-400">ქართული</a>
+        <a href="/en/" class="rounded px-3 py-1.5 text-zinc-400 hover:bg-zinc-800">EN</a>
+        <a href="/ru/" class="rounded px-3 py-1.5 text-zinc-400 hover:bg-zinc-800">RU</a>
+      </div>
+    </div>
+  </div>
+  <div class="border-t border-zinc-800/70 py-5 text-center text-xs text-zinc-500">© 2026 Bagrat Motors · თბილისი</div>
+</footer>
+
+<!-- Floating action buttons -->
+<div class="fixed bottom-5 right-5 z-50 flex flex-col gap-3">
+  <a href="https://wa.me/995514908090" aria-label="WhatsApp" class="grid h-12 w-12 place-items-center rounded-full bg-[#25D366] text-white shadow-lg">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.5 15.2L2 22l4.9-1.3A10 10 0 1 0 12 2Zm5.3 14.1c-.2.6-1.3 1.2-1.8 1.2-.5.1-1 .1-1.7-.1-.4-.1-.9-.3-1.6-.6-2.8-1.2-4.6-4-4.7-4.2-.1-.2-1.1-1.5-1.1-2.8s.7-2 .9-2.2c.2-.2.5-.3.7-.3h.5c.2 0 .4 0 .6.5l.8 1.9c.1.2.1.3 0 .5l-.4.6c-.2.2-.3.4-.1.7.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.4 2.4 1.5.2.1.4.1.6-.1l.7-.9c.2-.2.4-.2.6-.1l1.8.9c.3.1.4.2.5.3.1.2.1.6-.1 1.1Z"/></svg>
+  </a>
+  <a href="viber://chat?number=%2B995514908090" aria-label="Viber" class="grid h-12 w-12 place-items-center rounded-full bg-[#7360f2] text-white shadow-lg">
+    <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><path d="M12 3c-4.5 0-8 2.9-8 6.6 0 2 1 3.8 2.7 5v3l2.7-1.6c.8.2 1.7.3 2.6.3 4.5 0 8-2.9 8-6.6S16.5 3 12 3Z"/></svg>
+  </a>
+  <a href="tel:+995514908090" aria-label="დარეკვა" class="call-pulse grid h-14 w-14 place-items-center rounded-full bg-brand text-white shadow-lg">
+    <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3 19.5 19.5 0 0 1-6-6 19.8 19.8 0 0 1-3-8.6A2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.3 1.8.6 2.6a2 2 0 0 1-.5 2.1L8 9.6a16 16 0 0 0 6 6l1.2-1.2a2 2 0 0 1 2.1-.5c.8.3 1.7.5 2.6.6a2 2 0 0 1 1.7 2Z"/></svg>
+  </a>
+</div>
+
+<script>
+  document.getElementById("navBtn").addEventListener("click", function () {
+    document.getElementById("navMenu").classList.toggle("hidden");
+  });
+</script>
 </body>
 </html>
