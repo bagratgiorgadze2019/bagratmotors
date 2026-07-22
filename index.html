@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bagrat Motors — ავტომობილები</title>
+  <meta name="description" content="Bagrat Motors — ავტომობილების გაყიდვა და მომსახურება. bagratmotors.ge" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <style>
+    :root {
+      --bg: #0d0f14;
+      --panel: #151922;
+      --text: #f2f4f8;
+      --muted: #9aa4b2;
+      --accent: #e63946;
+      --accent-2: #f1a208;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; }
+    body {
+      font-family: "Segoe UI", system-ui, -apple-system, Roboto, Helvetica, Arial, sans-serif;
+      background: radial-gradient(1200px 600px at 70% -10%, #1c2230 0%, var(--bg) 55%);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 22px 6vw;
+    }
+    .brand {
+      font-weight: 800;
+      font-size: 1.35rem;
+      letter-spacing: 0.5px;
+    }
+    .brand span { color: var(--accent); }
+    nav a {
+      color: var(--muted);
+      text-decoration: none;
+      margin-left: 26px;
+      font-size: 0.95rem;
+      transition: color 0.2s;
+    }
+    nav a:hover { color: var(--text); }
+    main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 40px 6vw 80px;
+      max-width: 900px;
+    }
+    .kicker {
+      color: var(--accent-2);
+      font-weight: 600;
+      letter-spacing: 2px;
+      text-transform: uppercase;
+      font-size: 0.8rem;
+      margin-bottom: 18px;
+    }
+    h1 {
+      font-size: clamp(2.4rem, 6vw, 4.2rem);
+      line-height: 1.05;
+      font-weight: 800;
+      margin-bottom: 22px;
+    }
+    p.lead {
+      color: var(--muted);
+      font-size: 1.15rem;
+      max-width: 620px;
+      margin-bottom: 36px;
+    }
+    .actions { display: flex; gap: 16px; flex-wrap: wrap; }
+    .btn {
+      display: inline-block;
+      padding: 14px 28px;
+      border-radius: 10px;
+      font-weight: 700;
+      text-decoration: none;
+      transition: transform 0.15s, opacity 0.2s;
+    }
+    .btn:hover { transform: translateY(-2px); }
+    .btn-primary { background: var(--accent); color: #fff; }
+    .btn-ghost { border: 1px solid #2b3240; color: var(--text); }
+    footer {
+      padding: 24px 6vw;
+      color: var(--muted);
+      font-size: 0.9rem;
+      border-top: 1px solid #1c2230;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="brand">Bagrat<span>Motors</span></div>
+    <nav>
+      <a href="#about">ჩვენ შესახებ</a>
+      <a href="#contact">კონტაქტი</a>
+    </nav>
+  </header>
+
+  <main>
+    <div class="kicker">bagratmotors.ge</div>
+    <h1>Bagrat Motors</h1>
+    <p class="lead" id="about">
+      ავტომობილების გაყიდვა და მომსახურება. საიტი მალე სრულად ამუშავდება —
+      დაგვიკავშირდით დამატებითი ინფორმაციისთვის.
+    </p>
+    <div class="actions" id="contact">
+      <a class="btn btn-primary" href="tel:+995">დარეკვა</a>
+      <a class="btn btn-ghost" href="mailto:bagratgiorgadze2019@gmail.com">ელ. ფოსტა</a>
+    </div>
+  </main>
+
+  <footer>
+    &copy; <span id="year"></span> Bagrat Motors · bagratmotors.ge
+  </footer>
+
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+  </script>
+</body>
+</html>
