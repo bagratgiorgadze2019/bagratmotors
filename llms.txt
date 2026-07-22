@@ -23,6 +23,26 @@
   - en: https://bagratmotors.ge/en/services/mini-excavator/
   - ru: https://bagratmotors.ge/ru/services/mini-ekskavator/
 
+
+## Sub-services
+Towing:
+    - Spider tow truck: https://bagratmotors.ge/en/services/spider-tow-truck/
+    - Car jump-start: https://bagratmotors.ge/en/services/car-jump-start/
+    - Roadside tyre change: https://bagratmotors.ge/en/services/roadside-tyre-change/
+    - Fuel delivery: https://bagratmotors.ge/en/services/fuel-delivery/
+    - Car lockout opening: https://bagratmotors.ge/en/services/car-lockout/
+    - Battery replacement: https://bagratmotors.ge/en/services/battery-replacement/
+    - Vehicle transport: https://bagratmotors.ge/en/services/vehicle-transport/
+Mobile vulcanization:
+    - Rim welding: https://bagratmotors.ge/en/services/rim-welding/
+    - Rim straightening: https://bagratmotors.ge/en/services/rim-straightening/
+Mini-excavator:
+    - Trench digging: https://bagratmotors.ge/en/services/trench-digging/
+    - Foundation excavation: https://bagratmotors.ge/en/services/foundation-excavation/
+    - Site levelling: https://bagratmotors.ge/en/services/site-levelling/
+    - Demolition: https://bagratmotors.ge/en/services/demolition/
+    - Landscaping: https://bagratmotors.ge/en/services/landscaping/
+
 ## Languages
 - Georgian (default): https://bagratmotors.ge/
 - English: https://bagratmotors.ge/en/
