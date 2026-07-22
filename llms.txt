@@ -1,18 +1,18 @@
 # Bagrat Motors
 
-> Bagrat Motors is an umbrella roadside- and site-services company in Tbilisi, Georgia, operating 24/7. It provides three service lines: tow truck / evacuator, mobile tyre vulcanization, and mini-excavator work. Founder/director: Bagrat Giorgadze.
+> Bagrat Motors is an umbrella roadside- and site-services company in Tbilisi, Georgia, operating 24/7 across the whole country. Three service lines: tow truck / evacuator (towing), mobile tyre vulcanization, and mini-excavator work (excavation, sewerage, water supply, pipe welding, post-hole drilling). Founder/director: Bagrat Giorgadze.
 
 ## Contact
-- [Call 514 90 80 90](tel:+995514908090) — main line
+- [Call 514 90 80 90](tel:+995514908090) — main line (towing & excavator)
 - [WhatsApp](https://wa.me/995514908090)
 - [Call 591 90 90 13](tel:+995591909013) — vulcanization line
 - [Email info@bagratmotors.ge](mailto:info@bagratmotors.ge)
-- Location: Tbilisi, Georgia. Hours: 24/7, every day.
+- Location: Tbilisi, Georgia. Hours: 24/7, every day. Towing area: all Georgia.
 
 ## Main services
-- [Towing / evacuator](https://bagratmotors.ge/en/services/towing/): tow-truck call-out, spider tow, accident & breakdown transport across Georgia, jump start, fuel delivery, lockout.
-- [Mobile vulcanization](https://bagratmotors.ge/en/services/vulcanization/): on-site tyre repair, rim welding, rim straightening, battery replacement, jump start, lockout.
-- [Mini-excavator](https://bagratmotors.ge/en/services/mini-excavator/): trench, foundation and utility-line digging, site levelling, demolition, landscaping in tight spaces.
+- [Towing / evacuator](https://bagratmotors.ge/en/services/towing/): 24/7 tow-truck call-out in Tbilisi and across Georgia, spider tow, accident & breakdown transport, jump start, fuel delivery, lockout.
+- [Mobile tyre service (vulcanization)](https://bagratmotors.ge/en/services/vulcanization/): on-site tyre repair, rim welding, rim straightening, wheel balancing, tyre fitting, battery, jump start.
+- [Mini-excavator](https://bagratmotors.ge/en/services/mini-excavator/): digging/excavation, trenches, foundation, site levelling, sewerage, water-supply installation, post-hole drilling, pipe welding, demolition, landscaping.
 
 ## Towing sub-services
 - [Spider tow truck](https://bagratmotors.ge/en/services/spider-tow-truck/)
@@ -26,6 +26,9 @@
 ## Vulcanization sub-services
 - [Rim welding](https://bagratmotors.ge/en/services/rim-welding/)
 - [Rim straightening](https://bagratmotors.ge/en/services/rim-straightening/)
+- [Tyre puncture repair](https://bagratmotors.ge/en/services/tyre-puncture-repair/)
+- [Tyre fitting & removal](https://bagratmotors.ge/en/services/tyre-fitting/)
+- [Wheel balancing](https://bagratmotors.ge/en/services/wheel-balancing/)
 
 ## Mini-excavator sub-services
 - [Trench digging](https://bagratmotors.ge/en/services/trench-digging/)
@@ -33,9 +36,12 @@
 - [Site levelling](https://bagratmotors.ge/en/services/site-levelling/)
 - [Demolition](https://bagratmotors.ge/en/services/demolition/)
 - [Landscaping](https://bagratmotors.ge/en/services/landscaping/)
+- [Water pipe welding](https://bagratmotors.ge/en/services/water-pipe-welding/)
+- [Sewerage installation](https://bagratmotors.ge/en/services/sewerage-installation/)
+- [Post-hole drilling](https://bagratmotors.ge/en/services/post-hole-drilling/)
+- [Water supply installation](https://bagratmotors.ge/en/services/water-supply-installation/)
 
 ## Languages
 - [Georgian (default)](https://bagratmotors.ge/)
 - [English](https://bagratmotors.ge/en/)
 - [Russian](https://bagratmotors.ge/ru/)
-
