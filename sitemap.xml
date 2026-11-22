@@ -761,4 +761,246 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/montazh-vodoprovoda/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/sasmeli-wylis-montaji/"/>
   </url>
-</urlset>
+<!-- hub:start -->
+  <!-- Sub-brand hub pages (Vulkanizacia.ge, Towing.ge) -->
+  <url>
+    <loc>https://bagratmotors.ge/services/khundebis-shecvla/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/khundebis-shecvla/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/brake-pad-replacement/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/zamena-tormoznyh-kolodok/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/khundebis-shecvla/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/brake-pad-replacement/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/khundebis-shecvla/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/brake-pad-replacement/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/zamena-tormoznyh-kolodok/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/khundebis-shecvla/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/zamena-tormoznyh-kolodok/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/khundebis-shecvla/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/brake-pad-replacement/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/zamena-tormoznyh-kolodok/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/khundebis-shecvla/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/services/mankanis-recxva/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/mankanis-recxva/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/car-wash-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/moyka-mashiny-na-domu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/mankanis-recxva/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/car-wash-at-home/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/mankanis-recxva/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/car-wash-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/moyka-mashiny-na-domu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/mankanis-recxva/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/moyka-mashiny-na-domu/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/mankanis-recxva/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/car-wash-at-home/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/moyka-mashiny-na-domu/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/mankanis-recxva/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/services/mankanis-qimwmenda/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/mankanis-qimwmenda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/car-interior-cleaning/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/himchistka-salona/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/mankanis-qimwmenda/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/car-interior-cleaning/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/mankanis-qimwmenda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/car-interior-cleaning/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/himchistka-salona/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/mankanis-qimwmenda/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/himchistka-salona/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/mankanis-qimwmenda/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/car-interior-cleaning/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/himchistka-salona/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/mankanis-qimwmenda/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/services/parebis-polireba/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/parebis-polireba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/headlight-polishing/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/polirovka-far/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/parebis-polireba/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/headlight-polishing/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/parebis-polireba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/headlight-polishing/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/polirovka-far/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/parebis-polireba/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/polirovka-far/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/parebis-polireba/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/headlight-polishing/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/polirovka-far/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/parebis-polireba/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/services/saburavis-wnevis-sensori/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavis-wnevis-sensori/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/tpms-sensor-replacement/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/zamena-datchika-davleniya-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavis-wnevis-sensori/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/tpms-sensor-replacement/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavis-wnevis-sensori/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/tpms-sensor-replacement/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/zamena-datchika-davleniya-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavis-wnevis-sensori/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/zamena-datchika-davleniya-shin/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavis-wnevis-sensori/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/tpms-sensor-replacement/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/zamena-datchika-davleniya-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavis-wnevis-sensori/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/services/sezonuri-saburavebis-shecvla/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/sezonuri-saburavebis-shecvla/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/seasonal-tire-change/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/sezonnaya-zamena-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/sezonuri-saburavebis-shecvla/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/seasonal-tire-change/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/sezonuri-saburavebis-shecvla/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/seasonal-tire-change/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/sezonnaya-zamena-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/sezonuri-saburavebis-shecvla/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/sezonnaya-zamena-shin/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/sezonuri-saburavebis-shecvla/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/seasonal-tire-change/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/sezonnaya-zamena-shin/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/sezonuri-saburavebis-shecvla/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/services/saburavebi/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavebi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/buy-tires/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/kupit-shiny/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavebi/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/buy-tires/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavebi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/buy-tires/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/kupit-shiny/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavebi/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/kupit-shiny/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/saburavebi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/buy-tires/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/kupit-shiny/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/saburavebi/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/services/mdzgholis-servisi/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/mdzgholis-servisi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/sober-driver/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/trezvyy-voditel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/mdzgholis-servisi/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/en/services/sober-driver/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/mdzgholis-servisi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/sober-driver/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/trezvyy-voditel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/mdzgholis-servisi/"/>
+  </url>
+  <url>
+    <loc>https://bagratmotors.ge/ru/services/trezvyy-voditel/</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="ka" href="https://bagratmotors.ge/services/mdzgholis-servisi/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bagratmotors.ge/en/services/sober-driver/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://bagratmotors.ge/ru/services/trezvyy-voditel/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bagratmotors.ge/services/mdzgholis-servisi/"/>
+  </url>
+  <!-- hub:end --></urlset>

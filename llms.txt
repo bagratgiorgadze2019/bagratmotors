@@ -40,7 +40,21 @@
 - [Sewerage installation](https://bagratmotors.ge/en/services/sewerage-installation/)
 - [Post-hole drilling](https://bagratmotors.ge/en/services/post-hole-drilling/)
 - [Water supply installation](https://bagratmotors.ge/en/services/water-supply-installation/)
+<!-- hub:start -->
+## Brands of Bagrat Motors
+- Vulkanizacia.ge — mobile tyre service, tyres, brakes, car wash, interior cleaning, headlight polishing (phone +995 591 90 90 13): https://vulkanizacia.ge/
+- Towing.ge — tow truck, spider tow truck, vehicle transport, sober driver (phone +995 514 90 80 90): https://towing.ge/
 
+## More services (provided by the brands)
+- [Brake pad replacement on site](https://bagratmotors.ge/en/services/brake-pad-replacement/) · ka https://bagratmotors.ge/services/khundebis-shecvla/ · ru https://bagratmotors.ge/ru/services/zamena-tormoznyh-kolodok/ — Vulkanizacia.ge
+- [Car wash at your home](https://bagratmotors.ge/en/services/car-wash-at-home/) · ka https://bagratmotors.ge/services/mankanis-recxva/ · ru https://bagratmotors.ge/ru/services/moyka-mashiny-na-domu/ — Vulkanizacia.ge
+- [Car interior steam cleaning](https://bagratmotors.ge/en/services/car-interior-cleaning/) · ka https://bagratmotors.ge/services/mankanis-qimwmenda/ · ru https://bagratmotors.ge/ru/services/himchistka-salona/ — Vulkanizacia.ge
+- [Headlight polishing and bulb replacement](https://bagratmotors.ge/en/services/headlight-polishing/) · ka https://bagratmotors.ge/services/parebis-polireba/ · ru https://bagratmotors.ge/ru/services/polirovka-far/ — Vulkanizacia.ge
+- [TPMS sensor replacement and programming](https://bagratmotors.ge/en/services/tpms-sensor-replacement/) · ka https://bagratmotors.ge/services/saburavis-wnevis-sensori/ · ru https://bagratmotors.ge/ru/services/zamena-datchika-davleniya-shin/ — Vulkanizacia.ge
+- [Seasonal tire change at home](https://bagratmotors.ge/en/services/seasonal-tire-change/) · ka https://bagratmotors.ge/services/sezonuri-saburavebis-shecvla/ · ru https://bagratmotors.ge/ru/services/sezonnaya-zamena-shin/ — Vulkanizacia.ge
+- [Buy tires in Tbilisi](https://bagratmotors.ge/en/services/buy-tires/) · ka https://bagratmotors.ge/services/saburavebi/ · ru https://bagratmotors.ge/ru/services/kupit-shiny/ — Vulkanizacia.ge
+- [Sober driver on call](https://bagratmotors.ge/en/services/sober-driver/) · ka https://bagratmotors.ge/services/mdzgholis-servisi/ · ru https://bagratmotors.ge/ru/services/trezvyy-voditel/ — Towing.ge
+<!-- hub:end -->
 ## Languages
 - [Georgian (default)](https://bagratmotors.ge/)
 - [English](https://bagratmotors.ge/en/)
